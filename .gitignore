@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+# Office temp
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Python cache (if any future code added)
+__pycache__/
+*.pyc
+
+# Optional outputs
+outputs/
